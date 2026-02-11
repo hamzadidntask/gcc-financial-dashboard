@@ -1,0 +1,22 @@
+# GCC Financial Dashboard - TODO
+
+- [x] Deep-analyze Excel data and extract all structured datasets (PL-Summary, PL Variance, Sheet2 pivot)
+- [x] Design database schema for financial data (stores, P&L line items, monthly data, pivot analysis)
+- [x] Seed all financial data from Excel into database
+- [x] Interactive P&L Summary dashboard with filterable views by store, date range, and metrics
+- [x] P&L Variance analysis view with year-over-year comparisons
+- [x] Detailed pivot analysis view from Sheet2 data
+- [x] Dynamic charts: line charts for trends, bar charts for comparisons, pie charts for distribution (Recharts)
+- [x] Drill-down capabilities in charts
+- [x] AI-powered financial insights chatbot with robust system prompts
+- [x] Natural language query interface for data questions
+- [x] Automated anomaly detection with AI-generated explanations
+- [x] Comparative analysis tools: store-by-store performance, variance, YoY comparisons
+- [ ] Export and report generation (PDF/Excel)
+- [x] Real-time data filtering and search across all financial metrics
+- [x] Store performance ranking dashboard with key metrics
+- [x] AI-powered improvement suggestions per store
+- [x] Interactive data table with sorting, filtering capabilities
+- [x] Clean professional financial design theme
+- [x] DashboardLayout with sidebar navigation
+- [x] Vitest tests for all financial API endpoints (9 tests passing)
